@@ -9,6 +9,8 @@
 import UIKit
 
 class NextViewController: UIViewController {
+    
+    //this is a test on the nextviewcontroller: git test
 
     override func viewDidLoad() {
         super.viewDidLoad()

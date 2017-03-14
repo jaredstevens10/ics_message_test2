@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     
     
     //This is a test to see if git push is working
+    //This is a 2nd test to see if git push on branch is working
 
     override func viewDidLoad() {
         super.viewDidLoad()

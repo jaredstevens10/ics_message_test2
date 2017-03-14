@@ -15,12 +15,10 @@ class ViewController: UIViewController {
 
     
     @IBOutlet weak var testLabel: UILabel!
-    
-    
     @IBOutlet weak var firstName: UITextField!
     
     
-    
+    //This is a test to see if git push is working
 
     override func viewDidLoad() {
         super.viewDidLoad()
